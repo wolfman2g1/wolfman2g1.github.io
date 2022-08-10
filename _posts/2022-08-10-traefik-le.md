@@ -2,6 +2,7 @@
 title: My Traefik config with let's encrypt wildcards
 date: 2022-08-10 12:00:00 -500
 categories: [homelab,traefik,let's encrypt]
+layout: post
 tags: [reverse proxy, let's encrypt] 
 ---
 # Install ansible and docker compose

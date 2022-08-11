@@ -1,5 +1,5 @@
 ---
-title: Home Labin' It
+title: Home Labin' It  2
 date: 2017-12-5 12:00:00 -500
 categories: [homelab,youtube]
 layout: post
